@@ -6,19 +6,19 @@
 ## Main Architecture
 
 
-<div style="text-align: center;"">
-  <img src="https://vitalflux.com/wp-content/uploads/2023/08/encoder-decoder-architecture-2-768x359.png" alt="Image 1" width="600" height ="500" >
+<div style="align: center;"">
+  <img src="https://vitalflux.com/wp-content/uploads/2023/08/encoder-decoder-architecture-2-768x359.png" alt="Image 1" width="800" height ="600" >
 </div>
 
-<div style="text-align: center;"">
-  <img src="https://machinelearningmastery.com/wp-content/uploads/2021/08/attention_research_1.png" alt="Image 2" width="300" height ="500">
+<div style="align: center;"">
+  <img src="https://machinelearningmastery.com/wp-content/uploads/2021/08/attention_research_1.png" alt="Image 2" width="400" height ="500">
 </div>
 
 
 
 ## Self Attention
 
-<div style="text-align: center;"">
+<div style="align: center;"">
   <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*GIVM8Wat6Vq8W7Eff-f_5w.png" alt="Image 1" width="800" height ="500" >
 </div>
 
