@@ -5,12 +5,14 @@
 
 ## Main Architecture
 
-<div style="display: flex; justify-content: space-between;">
+
+<div style="text-align: center;"">
   <img src="https://vitalflux.com/wp-content/uploads/2023/08/encoder-decoder-architecture-2-768x359.png" alt="Image 1" width="600" height ="500" >
-  <img src="https://machinelearningmastery.com/wp-content/uploads/2021/08/attention_research_1.png" alt="Image 2" width="200" height ="500">
 </div>
 
-
+<div style="text-align: center;"">
+  <img src="https://machinelearningmastery.com/wp-content/uploads/2021/08/attention_research_1.png" alt="Image 2" width="300" height ="500">
+</div>
 
 
 
